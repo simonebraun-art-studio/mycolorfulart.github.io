@@ -103,7 +103,7 @@ body.page-template-page-fullsingle-me {
       rgba(0, 0, 0, 0) 0%,
       rgba(0, 0, 0, 1) 100%
     ),
-    url("../../images/fl.jpeg");
+    url("../../images/studio1.jpeg");
 
   background-position: center center;
   background-size: cover;
@@ -260,7 +260,7 @@ selektor (wer) {
 }
 */
 h1 {
-  color: rgb(0, 140, 255);
+  color: rgb(3, 31, 53);
 }
 p {
   color: yellow;
