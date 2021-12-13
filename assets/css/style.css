@@ -254,6 +254,11 @@ body.page-template-page-fullsingle-me h1 {
   transition: 0.1s;
 }
 
+/*
+selektor (wer) {
+  eigenschaft (property): wert (value);
+}
+
 h1{
   color:rgb(0, 140, 255);
   }
