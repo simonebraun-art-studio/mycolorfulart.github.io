@@ -1,0 +1,13 @@
+/* Das ist ein Kommentar */
+html { background-color:aqua;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+a{
+    color: red;
+}
+a{
+    color:green; 
+}
+p {
+    width: 600px;color: white;background-color: black;
+}
