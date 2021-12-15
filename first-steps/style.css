@@ -1,20 +1,39 @@
 /* Das ist ein Kommentar */
-html { background-color:aqua;
-font-family:Verdana, Geneva, Tahoma, sans-serif;
+* {
+  box-sizing: border-box;
 }
-a{
-    color: red;
+html {
+  background-color: aqua;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-a{
-    color:green; 
+a {
+  color: red;
+}
+a {
+  color: green;
 }
 p {
-    width: 600px;
-    color: white;
-    background-color: black;
+  width: 600px;
+  color: white;
+  background-color: black;
+  margin: 20px;
+  padding: 10px;
+  border: 3px red solid;
+  border-width: 3px;
+  border-color: yellow;
+  border-style: solid;
 }
+#blau {
+  background-color: #0000ff;
+  width:700px;
+}
+.palm {
+  background-color: peru;
+  width: 400px;
+  border-color: white;
+}
+
+
 h2 {
-    color: red;
+  color: red;
 }
-
-
